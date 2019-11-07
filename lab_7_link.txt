@@ -1,4 +1,4 @@
-Name: Raya Alotaibi
-Partner: Layan Makhtoum
-Link: https://github.com/rayaotb/Lab_Website_3
+Name:Layan Makhtoum
+Partner:  Raya Alotaibi
+Link: https://github.com/LayanWM/Lab_Website_3
 
